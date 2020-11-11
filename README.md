@@ -8,3 +8,4 @@ Get it on the Chrome Web Store at https://chrome.google.com/webstore/detail/ibfb
 
 <img src="https://raw.githubusercontent.com/beaufortfrancois/cloud-storage-chrome-app/master/screenshot.png">
 
+
